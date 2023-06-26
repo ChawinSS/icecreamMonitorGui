@@ -1,2 +1,2 @@
 # icecreamMonitorGui
-Ice cream monitor gui project for class Software Engineering (BST-BCS-19a) SRH
+Ice cream monitor gui project, Lecture: Software Engineering (BST-BCS-19a) SRH
